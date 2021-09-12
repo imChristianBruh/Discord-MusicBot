@@ -1,1 +1,1 @@
-!(https://github.com/imChristianBruh/Discord-MusicBot/blob/master/assests/logo.gif)
+![Hi](https://github.com/imChristianBruh/Discord-MusicBot/blob/master/assests/logo.gif)
